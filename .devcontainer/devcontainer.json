@@ -1,0 +1,13 @@
+{
+  "name": "Espace Flutter - Mariage",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "flutter-workspace",
+  "workspaceFolder": "/workspace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Dart-Code.flutter"
+      ]
+    }
+  }
+}
