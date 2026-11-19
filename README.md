@@ -1,5 +1,12 @@
 # 💍 Application Mobile Mariage
 
+## Documentation Sallio
+
+- [Accueil du wiki](docs/wiki/Home.md)
+- [Plan de travail et exigences du cours](docs/plan-travail-sallio.md)
+- [Backlog des user stories](docs/backlog-sallio.md)
+- [Organisation de GitHub Projects et publication du wiki](docs/organisation-github.md)
+
 Bienvenue sur le dépôt du projet de développement mobile ! Ce projet utilise **Flutter** et est entièrement conteneurisé avec **Docker** et **Dev Containers** pour garantir un environnement de développement strict, identique pour tous, et sans conflits de versions.
 
 ---
