@@ -1,0 +1,10 @@
+services:
+  flutter-workspace:
+    image: ghcr.io/cirruslabs/flutter:stable
+    volumes:
+      # Monte le dossier parent (racine du projet) dans le conteneur
+      - ./:/workspace:cached
+    working_dir: /workspace
+    command: sleep infinity
+    ports:
+      - "8080:8080"
